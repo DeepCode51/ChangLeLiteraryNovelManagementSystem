@@ -1,0 +1,10 @@
+2022-02-22 10:32:16,875 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on LAPTOP-T7DEB7H8 with PID 50800 (E:\SimpleGraduationProjects\ChangLeLiteraryNovelManagementSystem\novel-admin\target\classes started by yangys in E:\SimpleGraduationProjects\ChangLeLiteraryNovelManagementSystem)
+2022-02-22 10:32:16,878 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2022-02-22 10:32:16,879 INFO (SpringApplication.java:663)- The following profiles are active: dev
+2022-02-22 10:32:21,078 DEBUG (ApplicationContextRegister.java:29)- ApplicationContext registed-->org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2374d36a: startup date [Tue Feb 22 10:32:16 CST 2022]; root of context hierarchy
+2022-02-22 10:32:25,237 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 8.735 seconds (JVM running for 10.575)
+2022-02-22 10:36:10,491 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on LAPTOP-T7DEB7H8 with PID 23496 (E:\SimpleGraduationProjects\ChangLeLiteraryNovelManagementSystem\novel-admin\target\classes started by yangys in E:\SimpleGraduationProjects\ChangLeLiteraryNovelManagementSystem)
+2022-02-22 10:36:10,495 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2022-02-22 10:36:10,496 INFO (SpringApplication.java:663)- The following profiles are active: dev
+2022-02-22 10:36:14,489 DEBUG (ApplicationContextRegister.java:29)- ApplicationContext registed-->org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@54d18072: startup date [Tue Feb 22 10:36:10 CST 2022]; root of context hierarchy
+2022-02-22 10:36:19,091 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 9.008 seconds (JVM running for 10.295)
